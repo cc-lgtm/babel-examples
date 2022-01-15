@@ -1,0 +1,16 @@
+{
+  "name": "bable-examples",
+  "version": "1.0.0",
+  "description": "学习一点babel的知识",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.16.8",
+    "@babel/parser": "^7.16.8",
+    "@babel/traverse": "^7.16.8"
+  }
+}
